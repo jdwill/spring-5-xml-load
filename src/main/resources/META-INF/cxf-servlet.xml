@@ -1,0 +1,4 @@
+<jaxws:endpoint
+  id="baeldung"
+  implementor="com.baeldung.cxf.spring.BaeldungImpl"
+  address="http://localhost:8080/services/baeldung" />
